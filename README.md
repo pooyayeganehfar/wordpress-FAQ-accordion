@@ -25,3 +25,4 @@ Future Enhancements:
 	•	Enhanced accessibility features.
 
 Feel free to contribute to this plugin by submitting issues or pull requests. Let’s make the FAQ experience better for WordPress users!
+<img width="962" alt="Screenshot 2025-02-02 at 10 35 07" src="https://github.com/user-attachments/assets/85672f55-3e9a-4012-bbe8-a23d07cbdb69" />
